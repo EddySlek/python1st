@@ -28,3 +28,9 @@ print(nbr1)
 birthYear = input("Enter your birth year: ")
 age = 2024 - int(birthYear)
 print(age)
+
+int(age)
+float(age)
+bool(age)
+str(age)
+
